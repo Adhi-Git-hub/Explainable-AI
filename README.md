@@ -4,6 +4,8 @@
 
 Explainable AI (XAI) refers to methods and techniques in artificial intelligence that make the outputs of AI models understandable to humans. As AI systems are increasingly deployed in various applications, it is crucial to interpret their decisions, especially in high-stakes domains such as healthcare, finance, and law. XAI aims to provide insights into how models make predictions, enabling users to trust and effectively utilize AI systems. Techniques like LIME (Local Interpretable Model-agnostic Explanations) help in interpreting complex models by approximating them locally with interpretable models.
 
+ ![sample image]( [https://github.com/Adhi-Git-hub/Neural-Style-Transfer/blob/main/TensorFlow%20Hub%20Model-1.jpg](https://github.com/Adhi-Git-hub/Explainable-AI/blob/main/Screenshot%202024-09-16%20233755.png))
+
 ## About the Codes
 
 This repository contains three Python files that demonstrate the application of Explainable AI using different datasets and machine learning models:
