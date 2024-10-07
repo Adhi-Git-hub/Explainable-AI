@@ -17,4 +17,6 @@ This repository contains three Python files that demonstrate the application of 
 3. **Text Dataset for Abusive Comment Detection**
    - This code focuses on detecting abusive comments in textual data using a Bidirectional LSTM model. The model classifies comments as abusive or non-abusive. LIME is used to explain the model's predictions by highlighting the words or phrases in the comments that significantly impacted the classification outcome.
 
-Feel free to explore each file to see how Explainable AI techniques can be applied across different types of data and models!
+
+[Link Text]([relative/path/to/your/file.pdf](https://github.com/Adhi-Git-hub/Explainable-AI/blob/main/Explainable%20AI.pdf))
+
